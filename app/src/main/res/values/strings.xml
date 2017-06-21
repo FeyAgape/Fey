@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fey</string>
+
+    <!-- tab titles -->
+    <string name="Tab_one">Home</string>
+    <string name="Tab_two">About</string>
+    <string name="Tab_three">Resume</string>
+    <string name="Tab_four">Portfolio</string>
+    <string name="Tab_five">Stories</string>
+    <string name="Tab_six">Travels</string>
+    <string name="Tab_seven">Contact</string>
+</resources>
